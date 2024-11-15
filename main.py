@@ -8,5 +8,5 @@ nome = "Igor"
 print(idade)
 
 # Soma
-nova_idade = idade + 34
+nova_idade = idade + 36
 print(nova_idade)
